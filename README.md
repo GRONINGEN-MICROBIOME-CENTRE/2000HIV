@@ -14,4 +14,4 @@ Frontiers in Immunology – Viral Immunology, 20 December 2022.
 
 This repository contains code used for analyses involving gut metagenomic data derived from fecal samples collected as part of the 2000HIV study.
 
-- [Gut Microbiome in Spontaneous HIV-1 Controllers and Immunological Non-Responders: a metagenomics study in 1,559 people with HIV ](Spontaneous_controllers_&_immunological_non-responders/)
+- [Gut Microbiome in Spontaneous HIV-1 Controllers and Immunological Non-Responders: <br>A metagenomics study in 1,559 people with HIV ](Spontaneous_controllers_&_immunological_non-responders/)
