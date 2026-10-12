@@ -27,13 +27,13 @@
 ##   reshape2   1.4.5
 ##   glmnet     4.1.10
 
-suppressPackageStartupMessages({
-  library(dplyr)
-  library(tidyr)
-  library(ggplot2)
-  library(vegan)
-  library(patchwork)
-})
+
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(vegan)
+library(patchwork)
+
 
 root <- path.expand("~/GitHub")
 source(file.path(root, "R", "R_functions.R"))
