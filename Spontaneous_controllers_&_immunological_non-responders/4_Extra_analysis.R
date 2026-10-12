@@ -24,12 +24,12 @@
 ##   reshape2 1.4.5
 ##   R.utils  2.13.0
 
-suppressPackageStartupMessages({
-  library(dplyr)
-  library(ggplot2)
-  library(patchwork)
-  library(ggpubr)
-})
+
+library(dplyr)
+library(ggplot2)
+library(patchwork)
+library(ggpubr)
+
 
 root <- path.expand("~/Documents/Projects/HIV Elite Controllers/Files_Yue_2025_10_06/code_public")
 source(file.path(root, "R", "R_functions.R"))
