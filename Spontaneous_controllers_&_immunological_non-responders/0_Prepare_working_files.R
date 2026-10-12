@@ -31,8 +31,8 @@
 ##   dplyr       1.2.0
 ##   microbiome  1.32.0
 
-suppressPackageStartupMessages(library(dplyr))
-suppressPackageStartupMessages(library(microbiome))
+library(dplyr)
+library(microbiome)
 
 root <- path.expand("~/Documents/Projects/HIV Elite Controllers/Files_Yue_2025_10_06/code_public")
 data_dir <- file.path(root, "data")
